@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://snarkshow.github.io/NewSite/portfolio/work1/</loc>
+    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snarkshow.github.io/NewSite/portfolio/work2/</loc>
+    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snarkshow.github.io/NewSite/portfolio/work3/</loc>
+    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snarkshow.github.io/NewSite/portfolio/work4/</loc>
+    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snarkshow.github.io/NewSite/portfolio/work5/</loc>
+    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snarkshow.github.io/NewSite/portfolio/work6/</loc>
+    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snarkshow.github.io/NewSite/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snarkshow.github.io/NewSite/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snarkshow.github.io/NewSite/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://snarkshow.github.io/NewSite/</loc>
+    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://snarkshow.github.io/NewSite/portfolio/</loc>
+    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://snarkshow.github.io/NewSite/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
