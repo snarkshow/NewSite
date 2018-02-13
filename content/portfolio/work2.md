@@ -1,17 +1,17 @@
 +++
 draft = false
-image = "img/portfolio/dogs/dog1.jpg"
+image = "img/portfolio/dogs/dog2.jpg"
 date = "2016-11-05T19:56:17+05:30"
-title = "Dog 1"
+title = "Dog 2"
 showonlyimage = false
-weight = 1
+weight = 2
 +++
 
 Doggo ipsum thicc dat tungg tho very good spot waggy wags, woofer. Aqua doggo very good spot wrinkler fluffer wow such tempt, woofer wrinkler heckin good boys and girls. Big ol pupper many pats ruff, clouds. very good spot bork stop it fren. Snoot wow such tempt bork heckin angery woofer smol very jealous pupper, ruff borkf h*ck.
 
 <!--more-->
 
-![alt text](/img/portfolio/dogs/dog1.jpg)
+![alt text](/img/portfolio/dogs/dog2.jpg)
 
 Very good spot heck clouds snoot, borkf. Wow very biscit vvv waggy wags corgo waggy wags, the neighborhood pupper aqua doggo shoob extremely cuuuuuute, pupperino heckin good boys and girls many pats.
 

@@ -6,7 +6,7 @@ languageCode = "en-us"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
-publishDir = "docs"
+publishDir = "Docs"
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
@@ -46,7 +46,7 @@ publishDir = "docs"
   url = "contact/"
 
   [params.social]
-  email         = "laura.hw.chuang@gmail.com"
-  twitter       = "https://www.twitter.com/_snarkshow"
-  instagram     = "https://www.instagram.com/snarkshow"
-  github        = "https://www.github.com/snarkshow"
+  email         = "mailto:laura.hw.chuang@gmail.com"
+  twitter       = "www.twitter.com/_snarkshow"
+  instagram     = "www.instagram.com/snarkshow"
+  github        = "www.github.com/snarkshow"
