@@ -1,4 +1,4 @@
-baseurl = "https://snarkshow.github.io/NewSite/
+baseurl = "https://example.org/"
 title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
@@ -6,7 +6,6 @@ languageCode = "en-us"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
-publishDir = "docs"
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
@@ -46,7 +45,11 @@ publishDir = "docs"
   url = "contact/"
 
   [params.social]
-  email         = "laura.hw.chuang@gmail.com"
-  twitter       = "https://www.twitter.com/_snarkshow"
-  instagram     = "https://www.instagram.com/snarkshow"
-  github        = "https://www.github.com/snarkshow"
+  facebook      = "full page or profile url in facebook"
+  googleplus    = "full profile url in googleplus"
+  email         = "email@example.com"
+  twitter       = "full profile url in twitter"
+  linkedin      = "full profile url in linkedin"
+  stackoverflow = "full profile url in stackoverflow"
+  instagram     = "full profile url in instagram"
+  github        = "full profile url in github"
